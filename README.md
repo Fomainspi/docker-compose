@@ -1,2 +1,2 @@
 # docker-compose
-# Just for training purpose
+Just for training purpose
